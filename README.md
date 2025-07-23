@@ -67,9 +67,9 @@
 
 ### 📫 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile/)
+- 💼 [LinkedIn]([https://www.linkedin.com/in/illia-kiporenko-564359287/])
 - 🌐 [Portfolio](https://your-portfolio-link.com)
-- 📧 Email: your.email@example.com
+- 📧 Email: kiporenkoilliia@outlook.com
 
 ---
 
