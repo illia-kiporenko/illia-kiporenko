@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Illia+Kiporenko!;Java+Backend+Developer;Always+learning+something+new!&center=true&size=27" />
 </h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" />
-</p>
-
 ---
 
 ### 👨‍💻 About Me
@@ -67,8 +63,7 @@
 
 ### 📫 Connect with Me
 
-- 💼 [LinkedIn]([https://www.linkedin.com/in/illia-kiporenko-564359287/])
-- 🌐 [Portfolio](https://your-portfolio-link.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/illia-kiporenko-564359287/)
 - 📧 Email: kiporenkoilliia@outlook.com
 
 ---
