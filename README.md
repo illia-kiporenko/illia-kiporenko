@@ -1,49 +1,72 @@
-<h2 align="left">Hi 👋! My name is Illia Kiporenko and I'm a Java Backend Developer, from Ukraine</h2>
+<!-- Profile README for Illia Kiporenko -->
 
-###
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Illia+Kiporenko!;Java+Backend+Developer;Always+learning+something+new!&center=true&size=27" />
+</h1>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=illia-kiporenko&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=illia-kiporenko&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+---
 
-###
+### 👨‍💻 About Me
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+🚀 I'm a **Java Backend Developer** with strong experience in building robust, scalable applications. I’m passionate about clean architecture, automation, and delivering quality code using modern technologies.
 
-###
+🧠 Currently focused on Spring Boot microservices, containerization, and cloud infrastructure.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+---
 
-###
+### 🛠️ Tech Stack
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+**Languages & Core**
+- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+- ![OOP](https://img.shields.io/badge/OOP-Principles-blueviolet?style=for-the-badge)
 
-###
+**Frameworks & Tools**
+- ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+- ![Docker Compose](https://img.shields.io/badge/Docker--Compose-384d54?style=for-the-badge&logo=docker&logoColor=white)
 
-<br clear="both">
+**Databases**
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+- ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-<img src="https://raw.githubusercontent.com/illia-kiporenko/illia-kiporenko/output/snake.svg" alt="Snake animation" />
+**Cloud Platforms**
+- ![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+- ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-###
+**Practices**
+- ![SOLID](https://img.shields.io/badge/SOLID-Principles-yellow?style=for-the-badge)
+- ![DRY](https://img.shields.io/badge/DRY-Don't%20Repeat%20Yourself-critical?style=for-the-badge)
+- ![KISS](https://img.shields.io/badge/KISS-Keep%20It%20Simple,%20Stupid-informational?style=for-the-badge)
+
+---
+
+### 📂 Projects Showcase
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| 🚀 **Simulation Service** | Backend service for managing engineering projects with participants and requirements. | Java, Spring Boot, PostgreSQL |
+| 🧠 **Auto Annotation Bot** | A Telegram bot for collecting project feedback and simulating interaction with admins. | Java, Spring, Telegram API |
+| 📊 **Metrics Dashboard** | Custom admin panel using Spring and Thymeleaf with MySQL and Dockerized environment. | Spring Boot, Docker, JPA |
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=illia-kiporenko&show_icons=true&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=illia-kiporenko&theme=tokyonight" />
+</p>
+
+---
+
+### 📫 Connect with Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/illia-kiporenko-564359287/)
+- 📧 Email: kiporenkoilliia@outlook.com
+
+---
+
+_“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”_ – **Martin Fowler**
+
